@@ -1,4 +1,4 @@
-# 🚀 Mars Base 7 — Junior Astronaut Mission Trainer
+# 🚀 Stranded on MARS — Balancing Resources & Surviving This Harsh World
 
 **Team Project Michaelians Ad Astra** · NASA Space Apps Challenge 2026 · Challenge: *Build a Junior Astronaut Mission Trainer*
 
@@ -6,7 +6,7 @@ Keep a small Mars outpost alive for **7 sols** (Mars days), make **4 rocket fuel
 Each sol your crew shares only **3 power cells** — but **5 stations** need power.
 Choosing what to leave unpowered is the lesson.
 
-![Mars Base 7 outpost](docs/images/screenshot.png)
+![Stranded on MARS outpost](docs/images/screenshot.png)
 
 | | |
 |---|---|
@@ -18,7 +18,7 @@ Choosing what to leave unpowered is the lesson.
 
 ## What is it?
 
-Mars Base 7 is a Roblox game for young learners. Players walk around a Mars outpost as crew members and decide,
+**Stranded on MARS** is a Roblox game for young learners. Players walk around a Mars outpost as crew members and decide,
 sol by sol, which stations get power:
 
 | Station | If powered | If not powered |
@@ -44,7 +44,7 @@ You need **[Roblox Studio](https://create.roblox.com)** (free, Windows or Mac) a
 ### Option 1 — Open the ready-made place (fastest)
 
 1. Download this repository: **Code → Download ZIP**, then unzip it.
-2. Double-click **`MarsBase7.rbxl`** (or open Roblox Studio → **File → Open from File…** → `MarsBase7.rbxl`).
+2. Double-click **`NASASPACEAPPS_StrandedOnMars_Finalized.rbxl`** (or open Roblox Studio → **File → Open from File…** → `NASASPACEAPPS_StrandedOnMars_Finalized.rbxl`).
 3. Press **Play** (F5) at the top of Studio.
 4. Watch the short tutorial (or press **Skip tutorial**), then press **START MISSION**.
 
