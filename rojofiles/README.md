@@ -10,7 +10,7 @@ Choosing what to leave unpowered is the lesson.
 
 | | |
 |---|---|
-| 🎬 **30-second demo** | https://www.youtube.com/watch?v=YOUR_VIDEO_ID |
+| 🎬 **30-second demo** | https://www.youtube.com/watch?v=RvM6_gPUE2w |
 | 🎮 **Play on Roblox** | https://www.roblox.com/games/99125218388041 |
 | 📄 **License** | [MIT](LICENSE) |
 
